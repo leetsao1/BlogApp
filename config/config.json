@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345678",
+    "database": "bloggerdb",
+    "host": "portfolio.cveuifcc082z.us-west-2.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
